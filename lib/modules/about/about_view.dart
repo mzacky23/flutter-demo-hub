@@ -136,7 +136,7 @@ class AboutView extends StatelessWidget {
                   ),
                   const SizedBox(height: 16),
                   ElevatedButton.icon(
-                    onPressed: () => _launchURL('https://github.com/username/repository'),
+                    onPressed: () => _launchURL('https://github.com/mzacky23/flutter-demo-hub'),
                     icon: const Icon(Icons.code),
                     label: const Text('View on GitHub'),
                     style: ElevatedButton.styleFrom(
