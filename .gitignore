@@ -39,3 +39,6 @@ Desktop.ini
 lib/firebase_options.dart
 .env
 *.key
+
+.dart_tool/
+*.g.dart
