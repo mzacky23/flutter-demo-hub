@@ -60,15 +60,6 @@ A collection of Flutter demo applications showcasing various features and capabi
 4. **Run the app**
   flutter run
 
-### 📁 Project Structure
-lib/
-├── blocs/          # State management (BLoC/Cubit)
-├── models/         # Data models
-├── repositories/   # API and data layer
-├── views/          # UI screens
-├── widgets/        # Reusable widgets
-└── routes/         # Navigation routes
-
 ## 👨‍💻 Author
 M Zacky
 
